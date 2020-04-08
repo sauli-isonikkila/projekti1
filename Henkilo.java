@@ -5,4 +5,6 @@ class Henkilo {
 	public Henkilo() {
 		
 	}
+	public Henkilo(String nimi, String osoite) {
+	}
 }
